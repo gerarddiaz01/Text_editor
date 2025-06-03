@@ -1,4 +1,4 @@
-# Text Editor Project
+# Text Editor Project 🧾
 
 This project is a simple text editor GUI built using Python’s tkinter library. It allowed me to practice structuring a real application with menus, file handling, widgets, and scrollable text — all while learning event-driven design from the ground up.
 
@@ -6,13 +6,13 @@ This project represents one of my first fully functional desktop applications. I
 
 ---
 
-## Learning Context
+## Learning Context 📚
 
 This app was created in April 2025, during my 3rd month learning Python. It was my first solo GUI project combining state, file logic, and user interaction.
 
 ---
 
-## How to Run the Application
+## How to Run the Application 🚀
 
 1. **Install Python**:
    - Ensure you have Python installed on your machine.
@@ -25,7 +25,7 @@ This app was created in April 2025, during my 3rd month learning Python. It was 
 
 ---
 
-## Features
+## Features ✨
 
 1. **Text Editing**:
    - A multi-line text area where users can write and edit text.
@@ -42,7 +42,7 @@ This app was created in April 2025, during my 3rd month learning Python. It was 
 
 ---
 
-## Tools and Concepts Used
+## Tools and Concepts Used 🛠️
 
 - tkinter widgets: Text, Scrollbar, Menu, filedialog
 - Python file handling (with open() for read/write)
@@ -51,7 +51,7 @@ This app was created in April 2025, during my 3rd month learning Python. It was 
 
 ---
 
-## Challenges Encountered and Solutions
+## Challenges Encountered and Solutions 🧩
 
 ### Challenge 1: GUI + File Dialog Integration
 At first, I didn’t know how to connect menu commands to opening/saving files. I learned how to use tkinter.filedialog to open file pickers and bind their output into the app.
@@ -67,7 +67,7 @@ tkinter felt foreign at first, especially its event loop and widget system. Inst
 
 ---
 
-## What I Learned
+## What I Learned 👨‍🎓
 
 - How to build a functioning text editor UI from scratch
 - The difference between imperative and event-driven GUI logic
@@ -78,7 +78,7 @@ tkinter felt foreign at first, especially its event loop and widget system. Inst
 
 ---
 
-## Conclusion
+## Conclusion 📝
 
 This project was a valuable learning experience that allowed me to explore GUI development with `tkinter`. By combining programming concepts, file handling, and user interface design, I created a simple yet functional text editor. The use of AI as a learning tool helped me overcome challenges and accelerate my understanding of `tkinter`.
 
